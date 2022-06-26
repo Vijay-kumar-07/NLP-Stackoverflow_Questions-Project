@@ -1,16 +1,16 @@
 # dvc-project-template
 DVC project template
 
-## STEPS -
+## STEPS :
 
-### STEP 01- Create a repository by using template repository
+#### STEP 01- Create a repository by using template repository
 
-### STEP 02- Clone the new repository
+#### STEP 02- Clone the new repository
 
-### STEP 03- Create a conda environment after opening the repository in VSCODE
+#### STEP 03- Create a conda environment after opening the repository in VSCODE
 
 ```bash
-conda create --prefix ./env python=3.7 -y
+conda create --prefix ./env python=3.8 -y
 ```
 
 ```bash
