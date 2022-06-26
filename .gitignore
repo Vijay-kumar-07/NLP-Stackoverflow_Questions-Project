@@ -141,3 +141,7 @@ configs/secrets.yaml
 
 
 
+artifacts/prepared/test.tsv
+artifacts/prepared/train.tsv
+artifacts/features/test.pkl
+artifacts/features/train.pkl
